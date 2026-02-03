@@ -1,24 +1,26 @@
-# Práctica de Navegación y Control de Versiones con Git 🚀
+# Version Control with Git
 
-Este proyecto documenta el flujo de trabajo correcto para configurar un entorno de desarrollo local y la sincronización con un repositorio remoto en GitHub utilizando la terminal.
+This exercise documents the correct procedures for setting up a local development environment and synchronizing it with a remote repository on GitHub.
 
-## 📁 Gestión del Entorno Local
-La estructura de carpetas se gestionó directamente desde el directorio raíz del sistema para asegurar una organización óptima:
+## Local Environment
+The folder structure was managed directly from the system root directory to ensure optimal organization:
 
-1. **Acceso al disco:** Se navegó a la raíz del sistema mediante `cd c`.
-2. **Creación de Directorio:** Se estableció la carpeta de trabajo `develop`.
-3. **Navegación:** Se ingresó al directorio de desarrollo con `cd develop`.
+1. **Disk Access:** Navigating to the system root using cd c.
 
-## 🛠️ Integración con GitHub
-Una vez preparado el entorno local, se procedió a vincular el proyecto con la nube:
+2. **Directory Creation:** The working directory was set to "develop".
 
-- **Clonación:** Se utilizó el comando `git clone https://github.com/karimemerino94-star/P1-github.git`.
-- **Verificación:** Se confirmó la descarga exitosa y el acceso a la rama principal `(main)` del proyecto.
+3. **Navigation:** Entering the development directory using cd develop.
 
-## 💻 Herramientas Utilizadas
-* **Git Bash:** Terminal principal para la ejecución de comandos.
-* **Git:** Sistema de control de versiones.
-* **Visual Studio Code:** Editor utilizado para la edición de archivos y visualización del proyecto.
+## Integration with GitHub
+Once the local environment was set up, the exercise was linked to the cloud:
 
----
-**Desarrollado por:** Karim (UABC)
+Use the command `git clone https://github.com/karimemerino94-star/P1-github.git`.
+
+The successful download and access to the main branch of the project were then confirmed.
+
+## Tools to Use
+* **Git Bash:** This was the main terminal for executing commands.
+
+* **Git:** This was the version control system.
+
+* **Visual Studio Code:** This was the editor used to edit files and view the exercise.
